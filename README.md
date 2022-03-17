@@ -1,1 +1,5 @@
-# java-for-coding-test
+## java-for-coding-test
+
+나동빈님의 "이것이 취업을 위한 코딩테스트다 with 파이썬" 책을 통해 공부한 알고리즘을 기록해두고 있습니다.
+
+모든 문제는 Java로 작성했습니다.
