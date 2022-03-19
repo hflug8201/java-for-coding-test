@@ -21,7 +21,7 @@ public class Main {
 			if(nextColumn >= 1 && nextColumn <= 8 && nextRow >= 1 && nextRow <= 8){
 				result++;
 			}
-	}
+		}
 		System.out.println(result);
 	}
 }
